@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **mdsakib124202@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Sakib137/resume/blob/main/Md%20Sakib%20Al%20Hasan.pdf](https://github.com/Sakib137/resume/blob/main/Md%20Sakib%20Al%20Hasan.pdf)
+- 📄 Know about me [https://github.com/Sakib137/resume/blob/main/Md%20Sakib%20Al%20Hasan.pdf](https://github.com/Sakib137/resume/blob/main/Md%20Sakib%20Al%20Hasan.pdf)
 
 
 <p align="left">
