@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Sakib Al Hasan</h1>
 <h3 align="center">A passionate DevOps Engineer from Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakib137" alt="sakib137" /></a> </p>
+
 
 - 🌱 I’m currently learning **MVC**
 
@@ -11,7 +11,6 @@
 
 - 📄 Know about my experiences [https://github.com/Sakib137/resume/blob/main/Md%20Sakib%20Al%20Hasan.pdf](https://github.com/Sakib137/resume/blob/main/Md%20Sakib%20Al%20Hasan.pdf)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
